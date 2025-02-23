@@ -2,7 +2,6 @@ This is a summary of my coding activity.
 
 
 
-
 ![metrics](https://github.com/mrkhachaturov/mrkhachaturov/blob/main/github-metrics.svg)
 
 
