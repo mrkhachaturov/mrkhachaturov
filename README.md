@@ -15,7 +15,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrkhachaturov&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrkhachaturov&theme=darkhub&row=2&column=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrkhachaturov&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Skills](https://skillicons.dev/icons?i=ansible,terraform,docker,linux,bash,py,ts,js,nextjs,gitlab,postgres,githubactions,git,github,vscode)](https://skillicons.dev)
 
