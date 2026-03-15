@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mr+Khachaturov+👋;Platform+%26+Infrastructure+Engineer;Ansible+%C2%B7+Terraform+%C2%B7+Docker;GitLab+%C2%B7+Harbor+%C2%B7+MinIO;4000%2B+commits+and+counting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=We+can+not+solve+our+problems...;...with+the+same+level+of+thinking;...that+created+them+%E2%80%94+Einstein;Platform+%26+Infrastructure+Engineer;Ansible+%C2%B7+Terraform+%C2%B7+Docker;GitLab+%C2%B7+Harbor+%C2%B7+MinIO;4000%2B+commits+and+counting)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrkhachaturov&color=70a5fd&style=flat)
 
