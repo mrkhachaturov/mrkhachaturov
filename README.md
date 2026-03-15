@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=We+can+not+solve+our+problems;with+the+same+level+of+thinking+that+created+them;%E2%80%95+Albert+Einstein)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=We+can+not+solve+our+problems...;with+the+same+level+of+thinking+that+created+them;%E2%80%95+Albert+Einstein)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrkhachaturov&color=70a5fd&style=flat)
 
