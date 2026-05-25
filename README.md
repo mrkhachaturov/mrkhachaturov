@@ -7,8 +7,8 @@
 ---
 
 <a href="https://github.com/mrkhachaturov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrkhachaturov&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkhachaturov&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrkhachaturov&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrkhachaturov&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrkhachaturov&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
