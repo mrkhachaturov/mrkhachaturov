@@ -7,15 +7,15 @@
 ---
 
 <a href="https://github.com/mrkhachaturov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrkhachaturov&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=mrkhachaturov&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkhachaturov&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrkhachaturov&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://trophy.ryglcloud.net/?username=mrkhachaturov&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=mrkhachaturov&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrkhachaturov&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://qingyu-github-readme-activity-graph.vercel.app/graph?username=mrkhachaturov&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Skills](https://skillicons.dev/icons?i=ansible,terraform,docker,linux,bash,py,ts,js,nextjs,gitlab,postgres,githubactions,git,github,vscode)](https://skillicons.dev)
 
